@@ -1,6 +1,7 @@
 Pokemon Sprites
 
 Search for any pokemon stickers through this website
+Evaluated environment url: https://assaypoulose.github.io/Anime-Pokemon/
 
 fetch - async/await - project
 try & catch method for error handling
